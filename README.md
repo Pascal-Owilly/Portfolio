@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Pascal(111|nd Owilly)|https://github.com/Pascal-Owilly/Portfolio)"/>]
 
 <h1 align="center"> My big Portfolio
